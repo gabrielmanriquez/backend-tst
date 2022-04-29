@@ -9,7 +9,7 @@ Para restaurar la información inicial del server, se debe reiniciar el servicio
 
 Seguir los siguientes pasos para hacer funcionar el servidor:
 
-1. `cd ventas-backend`
+1. `cd *nombre_de_carpeta*`
 2. Instalar dependencias - `npm install`
 3. Iniciar servidor - `node server.js`
 3. Apagar servidor - `Ctrl + C`
