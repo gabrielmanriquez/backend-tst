@@ -1,4 +1,4 @@
-# Server for Contacts Project
+# Servidor para pruebas
 
 Esto es un servicio de backend que funciona utilizando Nodejs como servidor. Esta solución sirve para desarrollar la prueba de frontend, utilizando los endpoint que ya estan listos aqui.
 El servicio es simple y no se utiliza una base de datos real para simplificar su despliegue y uso, pero los resultados son similares a uno real.
