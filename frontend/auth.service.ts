@@ -10,7 +10,7 @@ export class AuthService {
   logout() {
     if (this.isAuthenticated()) {
         sessionStorage.removeItem("token");
-        sessionStorage.removeItem("userId");
+        sessionStorage.removeItem("email");
     }
   }
 
