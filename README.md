@@ -16,3 +16,6 @@ Seguir los siguientes pasos para hacer funcionar el servidor:
 3. Iniciar servidor - `node server.js`
 3. Apagar servidor - `Ctrl + C`
 
+
+## Documentación de API
+https://documenter.getpostman.com/view/18788609/UyrGAtj9
